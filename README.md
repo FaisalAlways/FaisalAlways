@@ -24,11 +24,11 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalhossain74&show_icons=true&theme=radical" alt="Faisal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalAlways&show_icons=true&theme=radical" alt="Faisal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalhossain74&theme=radical" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalAlways&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
