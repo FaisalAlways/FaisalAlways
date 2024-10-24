@@ -20,7 +20,6 @@
   - Git | GitHub | Visual Studio Code
 
 
-
 ### 📈 GitHub Stats:
 
 <p align="center">
@@ -32,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalhossain74&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalAlways&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 --
@@ -50,6 +49,6 @@
 ---
 
 <!---
-Faisalhossain74/Faisalhossain74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FaisalAlways/FaisalAlways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
