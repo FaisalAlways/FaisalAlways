@@ -12,11 +12,10 @@
   - HTML5 | CSS3 | Tailwind CSS | Bootstrap
   - JavaScript (ES6+) | React.js | Next.js
 - **Backend**: 
-  - Learning backend technologies to become a Full Stack Developer.
+  - Currently learning backend technologies to become a Full Stack Developer.
   
 - **Version Control & Tools**: 
   - Git | GitHub | Visual Studio Code
-
 
 ### 📈 GitHub Stats:
 
@@ -32,17 +31,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalAlways&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### 📫 How to reach me:
+### 📫 How to Reach Me:
 
 - Email: **faisalhossain7474@gmail.com**
 - [Facebook](https://www.facebook.com/faisal.hossain.1272?mibextid=ZbWKwL)
 
----
-
-### ⚡ Fun Fact:
-> "I might not be funny, but I sure code with passion!"
-
----
 
 <!---
 FaisalAlways/FaisalAlways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
