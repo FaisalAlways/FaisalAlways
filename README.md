@@ -6,8 +6,6 @@
   🚀 Currently advancing my skills in **Next.js** and exploring **backend development**.
 </p>
 
-
-
 ### 🛠 Skills and Technologies:
 
 - **Frontend**: 
