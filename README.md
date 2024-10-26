@@ -32,8 +32,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalAlways&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
---
-
 ### 📫 How to reach me:
 
 - Email: **faisalhossain7474@gmail.com**
