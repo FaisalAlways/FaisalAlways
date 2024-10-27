@@ -34,7 +34,6 @@
 ### 📫 How to Reach Me:
 
 - Email: **faisalhossain7474@gmail.com**
-- [Facebook](https://www.facebook.com/faisal.hossain.1272?mibextid=ZbWKwL)
 
 
 <!---
