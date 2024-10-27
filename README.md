@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Faisal Hossain 👋</h1>
-<h3 align="center">Junior Frontend Developer | Learning Backend | Passionate About Web Development</h3>
+<h3 align="center">Frontend Developer | Learning Backend | Passionate About Web Development</h3>
 
 <p align="center">
   🌏 Based in Bangladesh <br>
