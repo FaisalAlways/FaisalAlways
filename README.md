@@ -33,7 +33,7 @@
 
 ### 📫 How to Reach Me:
 
-- Email: **faisalhossain7474@gmail.com**
+- Email: **faisalhossainalways@gmail.com**
   
 <!---
 FaisalAlways/FaisalAlways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
