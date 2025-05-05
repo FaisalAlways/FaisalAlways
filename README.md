@@ -3,7 +3,7 @@
 
 <p align="center">
   🌏 Based in Bangladesh <br>
-  🚀 Currently advancing my skills in **Next.js** and exploring **backend development**.
+  🚀 Currently advancing my skills in **Next.js** and exploring **backend development**
 </p>
 
 ### 🛠 Skills and Technologies:
