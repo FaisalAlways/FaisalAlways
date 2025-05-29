@@ -6,9 +6,9 @@
   🚀 Currently advancing my skills in **Next.js** and exploring **backend development**
 </p>
 
-### 🛠 Skills and Technologies:
+## 🛠 Skills and Technologies:
 
-- **Frontend**: 
+ **Frontend**: 
   - HTML5 | CSS3 | Tailwind CSS | Bootstrap
   - JavaScript (ES6+) | React.js | Next.js
 - **Backend**: 
