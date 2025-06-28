@@ -91,7 +91,7 @@ I'm a passionate Frontend Developer focused on creating user-friendly, accessibl
 
 ### 📬 Connect With Me
 
-- 📧 Email: **faisalhossainalways@gmail.com**
+- 📧 Email: **faisalhossain.dev@gmail.com**
 - 🧑‍💻 GitHub: [@FaisalAlways](https://github.com/FaisalAlways)
 
 ---
