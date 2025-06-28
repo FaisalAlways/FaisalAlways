@@ -77,14 +77,39 @@ I'm a passionate Frontend Developer focused on creating user-friendly, accessibl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faisalAlways&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalAlways&theme=radical" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalAlways&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalAlways&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faisalAlways&theme=radical&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalAlways&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faisalAlways&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
 
 ### 📬 Connect With Me
 
