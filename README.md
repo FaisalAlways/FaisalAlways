@@ -3,8 +3,14 @@
 
 <p align="center">
   🌍 Based in <strong>Bangladesh</strong> <br>
-  🚀 Currently growing my expertise in <strong>Next.js</strong> and diving into <strong>backend development</strong>
+  🚀 Exploring <strong>Next.js</strong> and learning <strong>backend development</strong>
 </p>
+
+---
+
+### 🙋‍♂️ About Me
+
+I'm a passionate Frontend Developer focused on creating user-friendly, accessible, and performance-optimized web applications. Currently, I'm learning backend technologies to become a confident Full Stack Developer. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
@@ -15,12 +21,54 @@
 - JavaScript (ES6+), React.js, Next.js
 
 **Backend Development**
-- Currently learning Node.js, Express.js, MongoDB & Prisma
+- Node.js, Express.js (Learning)
+- MongoDB, Prisma (Learning)
 
-**Tools & Platforms**
+**Version Control & Tools**
 - Git & GitHub
 - Visual Studio Code
-- Thunder Client & Postman
+- Thunder Client, Postman
+
+---
+
+### 🌱 Currently Learning
+
+- 🔧 REST API Development
+- 🔐 Authentication & Authorization (JWT)
+- 🧠 MongoDB & Prisma ORM
+- 🏗️ Full Stack Project Structure using Next.js & Express.js
+
+---
+
+### 💼 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Supess ABC** | Full-stack app using Turborepo with Next.js & Express | Next.js, Express.js, Tailwind, Prisma |
+| **Instructor Directory** | Dynamic instructor profile system with filtering | React, JSON, Tailwind CSS |
+| **Component Library Showcase** | Dark-themed UI library with tabs, cards & search | Next.js, Tailwind CSS |
+
+> 💡 *More projects coming soon!*
+
+---
+
+### 🎯 2025 Goals
+
+- ✅ Master Next.js & Backend Integration  
+- ✅ Complete at least **3 full-stack projects**
+- 🚀 Launch my personal **portfolio website**
+- 💻 Contribute to **open-source projects**
+- 📚 Improve data structure and algorithm skills
+
+---
+
+### 📚 Resources I Love
+
+- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Traversy Media on YouTube](https://www.youtube.com/c/TraversyMedia)
 
 ---
 
@@ -38,10 +86,10 @@
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect With Me
 
 - 📧 Email: **faisalhossainalways@gmail.com**
-- 🌐 GitHub: [@FaisalAlways](https://github.com/FaisalAlways)
+- 🧑‍💻 GitHub: [@FaisalAlways](https://github.com/FaisalAlways)
 
 ---
 
