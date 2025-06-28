@@ -88,21 +88,6 @@ I'm a passionate Frontend Developer focused on creating user-friendly, accessibl
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalAlways&theme=radical&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalAlways&theme=radical" alt="GitHub Contribution Graph" />
-</p>
-
----
 
 ### 📬 Connect With Me
 
