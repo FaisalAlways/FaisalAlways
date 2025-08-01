@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Faisal Hossain 👋</h1>
-<h3 align="center">Frontend Developer | Aspiring Full Stack Engineer | Passionate About Building for the Web</h3>
+<h3 align="center">Backend Developer | Aspiring Full Stack Engineer | Passionate About Building for the Web</h3>
 
 <p align="center">
   🌍 Based in <strong>Bangladesh</strong> <br>
