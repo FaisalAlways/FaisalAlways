@@ -10,7 +10,6 @@
 
 I'm a passionate Frontend Developer focused on creating user-friendly, accessible, and performance-optimized web applications. Currently, I'm learning backend technologies to become a confident Full Stack Developer. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
----
 
 ### 🛠️ Skills & Technologies
 
