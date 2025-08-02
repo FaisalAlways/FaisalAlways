@@ -34,7 +34,6 @@ I'm a passionate Frontend Developer focused on creating user-friendly, accessibl
 - 🧠 MongoDB & Prisma ORM
 - 🏗️ Full Stack Project Structure using Next.js & Express.js
 
----
 
 ### 💼 Projects
 
