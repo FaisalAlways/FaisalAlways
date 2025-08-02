@@ -26,7 +26,6 @@ I'm a passionate Frontend Developer focused on creating user-friendly, accessibl
 - Visual Studio Code
 - Thunder Client, Postman
 
----
 
 ### 🌱 Currently Learning
 
