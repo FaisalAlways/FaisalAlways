@@ -45,7 +45,6 @@ I'm a passionate Frontend Developer focused on creating user-friendly, accessibl
 
 > 💡 *More projects coming soon!*
 
----
 
 ### 🎯 2025 Goals
 
