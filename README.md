@@ -75,15 +75,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalAlways&theme=react-dark&hide_border=true&area=true&line=4493f8&point=3b6ef0&color=3a75f5"
-    alt="Contribution Graph"
-  />
-</p>
-
 ## 🎯 Goals for 2025
 
 - ✅ Build and launch **3+ full-stack or backend projects**
