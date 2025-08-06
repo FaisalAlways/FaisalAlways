@@ -22,6 +22,7 @@
 ## 🛠️ My Tech Stack
 
 ### 🔤 Languages & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
@@ -32,6 +33,7 @@
 </p>
 
 ### 🖥️ WordPress Development
+
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff" />
   <img src="https://img.shields.io/badge/Theme%20Development-23282D?logo=wordpress&logoColor=fff" />
@@ -39,12 +41,14 @@
 </p>
 
 ### ☁️ DevOps & Cloud
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff" />
 </p>
 
 ### 🧩 Databases & Tools
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
@@ -52,6 +56,7 @@
 </p>
 
 ### 🔧 Tools & Editors
+
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
@@ -72,14 +77,17 @@
 
 </div>
 
-
 ---
 
-<!-- 🌱 Beautiful Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalAlways&theme=react-dark&hide_border=true&area=true&line=2ecc71&point=1abc9c&color=27ae60&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph" />
-</p>
+<!-- 🌱 Live Contribution Graph -->
 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalAlways&theme=react-dark&hide_border=true&area=true&line=2ecc71&point=1abc9c&color=27ae60&custom_title=🔥%20My%20Contribution%20Graph" 
+    alt="Live GitHub Contribution Graph" 
+    style="max-width:100%;"
+  />
+</p>
 
 
 ## 🎯 Goals for 2025
@@ -103,4 +111,4 @@
 
 ---
 
-⭐️ *Feel free to fork this README and customize it as you like!*
+⭐️ _Feel free to fork this README and customize it as you like!_
