@@ -1,5 +1,6 @@
 <!-- Header Banner -->
-<h1 align="center">Hi, I'm Faisal Hossain 👋</h1>
+<h1 align="center">Hi, I'm Faisal Hossain </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4493f8&width=500&lines=Junior+Backend+Developer;WordPress+Theme+Developer;Open+Source+Contributor;Let's+Build+Something+Great!" alt="Typing SVG" />
@@ -67,7 +68,7 @@
 
 ---
 
-<h2 align="center" style="color:#4493f8;">📈 GitHub Insights</h2>
+<h3>📈 GitHub Insights</h3>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAlways&layout=compact&theme=radical&hide_border=false&border_radius=12&title_color=4493f8" alt="Top Languages" />
@@ -96,4 +97,3 @@
 
 ---
 
-⭐️ _Feel free to fork this README and customize it as you like!_
