@@ -1,96 +1,106 @@
-<h1 align="center">Hi there, I'm Faisal Hossain 👋</h1>
-<h3 align="center">Backend Developer | Aspiring Full Stack Engineer | Passionate About Building for the Web</h3>
-
+<!-- Header Banner -->
 <p align="center">
-  🌍 Based in <strong>Bangladesh</strong> <br>
-  🚀 Exploring <strong>Next.js</strong> and learning <strong>backend development</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4493f8&width=500&lines=Junior+Backend+Developer;WordPress+Theme+Developer;Open+Source+Contributor;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
-### 🙋‍♂️ About Me
-
-I'm a passionate Frontend Developer focused on creating user-friendly, accessible, and performance-optimized web applications. Currently, I'm learning backend technologies to become a confident Full Stack Developer. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-
-
-### 🛠️ Skills & Technologies
-
-**Frontend Development**
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-- JavaScript (ES6+), React.js, Next.js
-
-**Backend Development**
-- Node.js, Express.js (Learning)
-- MongoDB, Prisma (Learning)
-
-**Version Control & Tools**
-- Git & GitHub
-- Visual Studio Code
-- Thunder Client, Postman
-
-
-### 🌱 Currently Learning
-
-- 🔧 REST API Development
-- 🔐 Authentication & Authorization (JWT)
-- 🧠 MongoDB & Prisma ORM
-- 🏗️ Full Stack Project Structure using Next.js & Express.js
-
-
- 💼 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Supess ABC** | Full-stack app using Turborepo with Next.js & Express | Next.js, Express.js, Tailwind, Prisma |
-| **Instructor Directory** | Dynamic instructor profile system with filtering | React, JSON, Tailwind CSS |
-| **Component Library Showcase** | Dark-themed UI library with tabs, cards & search | Next.js, Tailwind CSS |
-
-> 💡 *More projects coming soon!*
-
-
-### 🎯 2025 Goals
-
-- ✅ Master Next.js & Backend Integration  
-- ✅ Complete at least **3 full-stack projects**
-- 🚀 Launch my personal **portfolio website**
-- 💻 Contribute to **open-source projects**
-- 📚 Improve data structure and algorithm skills
+<h1 align="center">Hi, I'm Faisal Hossain 👋</h1>
 
 ---
 
-### 📚 Resources I Love
+## 🙋‍♂️ About Me
 
-- [JavaScript.info](https://javascript.info/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [Frontend Mentor](https://www.frontendmentor.io/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Traversy Media on YouTube](https://www.youtube.com/c/TraversyMedia)
+🚀 **Junior Backend Developer | WordPress Theme Developer**
+
+- 🌱 Currently learning **Node.js**, **Express**, and advanced **WordPress development**
+- 💻 Focused on building RESTful APIs and custom WordPress solutions
+- 🧩 Passionate about clean code, scalability, and user-centric systems
+- 👨‍💻 Creator of useful tools for developers (more coming soon!)
+- 📬 Open to freelance work, collaboration, and open-source contributions
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalAlways&show_icons=true&theme=radical" alt="GitHub Stats" />
+### 🔤 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalAlways&theme=radical" alt="GitHub Streak" />
+### 🖥️ WordPress Development
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Theme%20Development-23282D?logo=wordpress&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Custom%20Post%20Types-555?logo=wordpress&logoColor=fff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalAlways&layout=compact&theme=radical" alt="Top Languages" />
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff" />
+</p>
+
+### 🧩 Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+</p>
+
+### 🔧 Tools & Editors
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Thunder%20Client-3B82F6?logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000" />
 </p>
 
 ---
 
+## 📈 My GitHub Insights
 
-### 📬 Connect With Me
+<div >
 
-- 📧 Email: **faisalhossain.dev@gmail.com**
-- 🧑‍💻 GitHub: [@FaisalAlways](https://github.com/FaisalAlways)
+  <img src="https://github-readme-stats.vercel.app/api?username=FaisalAlways&show_icons=true&theme=radical&border_radius=12&hide_border=false" alt="Faisal's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAlways&layout=compact&theme=radical&hide_border=false&border_radius=12" alt="Top Languages" />
+
+</div>
+
 
 ---
 
-<!---
-FaisalAlways/FaisalAlways is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- 🌱 Beautiful Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalAlways&theme=react-dark&hide_border=true&area=true&line=2ecc71&point=1abc9c&color=27ae60&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+
+
+## 🎯 Goals for 2025
+
+- ✅ Build and launch **3+ full-stack or backend projects**
+- ✅ Master **WordPress Theme Development**
+- ✅ Deploy REST APIs with **JWT Authentication**
+- ✅ Launch **portfolio website**
+- ✅ Contribute to open-source (WordPress & JavaScript-based)
+- ✅ Strengthen **DSA (Data Structures & Algorithms)** knowledge
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:faisalhossain.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff" /></a>
+  <a href="https://github.com/FaisalAlways"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/faisal-hossain-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff" /></a>
+</p>
+
+---
+
+⭐️ *Feel free to fork this README and customize it as you like!*
