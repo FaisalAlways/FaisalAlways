@@ -67,27 +67,30 @@
 
 ---
 
-## 📈 My GitHub Insights
+<h2 align="center" style="color:#4493f8;">📈 GitHub Insights</h2>
 
-<div >
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FaisalAlways&show_icons=true&theme=radical&border_radius=12&hide_border=false&title_color=4493f8" alt="GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FaisalAlways&show_icons=true&theme=radical&border_radius=12&hide_border=false" alt="Faisal's GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAlways&layout=compact&theme=radical&hide_border=false&border_radius=12" alt="Top Languages" />
-
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAlways&layout=compact&theme=radical&hide_border=false&border_radius=12&title_color=4493f8" alt="Top Languages" />
+</p>
 
 ---
 
-<!-- 🌱 Live Contribution Graph -->
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalAlways&theme=react-dark&hide_border=true&area=true&line=2ecc71&point=1abc9c&color=27ae60&custom_title=🔥%20My%20Contribution%20Graph" 
-    alt="Live GitHub Contribution Graph" 
-    style="max-width:100%;"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalAlways&theme=react-dark&hide_border=true&area=true&line=4493f8&point=3b6ef0&color=3a75f5"
+    alt="Contribution Graph"
   />
 </p>
+
+
+
 
 
 ## 🎯 Goals for 2025
