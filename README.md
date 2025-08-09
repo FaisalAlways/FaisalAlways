@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL" />
   <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" /> -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase" />
+<!--   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" alt="Firebase" /> -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
   <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" alt="GraphQL" /> -->
 </p>
