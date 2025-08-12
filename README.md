@@ -94,7 +94,6 @@
 - ✅ Contribute to open-source (WordPress & JavaScript-based)
 - ✅ Strengthen **DSA (Data Structures & Algorithms)** knowledge
 
----
 
 ## 📫 Connect With Me
 
