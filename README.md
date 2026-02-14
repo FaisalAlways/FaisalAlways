@@ -2,14 +2,14 @@
 <h1 align="center">Hi, I'm Faisal Hossain </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4493f8&width=500&lines=Junior+Backend+Developer;WordPress+Theme+Developer;Open+Source+Contributor;Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4493f8&width=500&lines=Junior+Developer;;Open+Source+Contributor;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🚀 **Junior Backend Developer | WordPress Theme Developer**
+🚀 **Junior Developer**
 
 - 🌱 Currently learning **Node.js**, **Express**, and advanced **WordPress development**
 - 💻 Focused on building RESTful APIs and custom WordPress solutions
