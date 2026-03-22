@@ -32,11 +32,6 @@
   <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Theme%20Development-23282D?logo=wordpress&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Custom%20Post%20Types-555?logo=wordpress&logoColor=fff" />
-</p>
 
 ### DevOps & Cloud
 
