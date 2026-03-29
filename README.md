@@ -20,7 +20,7 @@
 
 <hr/>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,nodejs,react,nextjs,mongodb,postgres,docker,git,github,vscode,postman" />
